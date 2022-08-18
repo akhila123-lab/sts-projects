@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+body, html {
+  height: 100%;
+ 
+}
+.main{
+	background: url("/images/movie_add.jpg") no-repeat center center fixed;
+	background-size: cover;
+	  height: 100%;
+}
+.container {
+	height: 100%;
+	width:350px;
+	margin: auto;
+}
+.container .row{
+	width: 500px;
+}
+.container .row .col{
+	display: flex;
+	margin: 10px;
+}
+.container .row .col label{
+	width: 150px;
+}
+.container .row .col input{
+	padding: 5px 0px;
+	width: 200px;
+}
+.container .add{
+	text-align: center;
+	color: brown;
+	padding-top: 20px;
+}
+.container .btn{
+	border : 2px solid aqua;
+	border-radius: 10px;
+	background-color: aqua;
+	padding: 10px;
+	color: white;
+	cursor: pointer;
+	font-weight: bold;
+	display: flex;
+	margin: auto
+}
+.container .btn:hover{
+	background-color: white;
+	color: aqua;
+	
+}
