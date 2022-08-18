@@ -87,6 +87,9 @@ public class Movie {
 	public String movieNameToUpperCase() {
 		return this.movieName.toUpperCase();
 	}
+	public String movieNameToLowerCase() {
+		return this.movieName.toUpperCase();
+	}
 	
 	
 	
