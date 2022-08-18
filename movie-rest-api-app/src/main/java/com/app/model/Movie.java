@@ -84,12 +84,7 @@ public class Movie {
 				+ ", heroName=" + heroName + ", language=" + language + ", movieCategory=" + movieCategory
 				 + ", date=" + created_at + "]";
 	}
-	public String movieNameToUpperCase() {
-		return this.movieName.toUpperCase();
-	}
-	public String movieNameToLowerCase() {
-		return this.movieName.toUpperCase();
-	}
+	
 	
 	
 	
