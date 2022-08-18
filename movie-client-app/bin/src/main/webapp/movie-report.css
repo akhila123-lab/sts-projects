@@ -1,0 +1,78 @@
+@charset "ISO-8859-1";
+body, html {
+  height: 100%;
+  width: 100%
+}
+.main{
+	background: url("/images/movie_main3.jpg") no-repeat center center fixed;
+	background-size: cover;
+	height:100%
+}
+.container{
+	height: 100%;
+	width:600px;
+	margin: auto;
+	
+}
+
+.toast_msg{
+	display: flex;
+    justify-content: flex-end;
+    color: blueviolet;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-right: 40px;
+}
+.container .text-center{
+	text-align: center;
+	color: brown;
+	
+}
+.container .btn{
+	border: 1.5px solid aqua;
+    padding: 5px;
+    background-color: aqua;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.container .btn:hover {
+	 background-color: white;
+	  color: aqua;
+}
+.movie_btn{
+	display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.input_search{
+	padding: 5px 7px;
+}
+.row table,th,td{
+	border: 1px solid black;
+	padding: 3px;
+	border-collapse: collapse;
+}
+.row th{
+	padding: 15px;
+	color: darkblue;
+}
+.edit{
+	width: 17px;
+	height: 17px;
+	padding: 8px 10px;
+}
+.image-title{
+	display: flex;
+	align-items: center;
+}
+.image-title .icon{
+width: 30px;
+	height: 30px;	
+}
+
+.image-title .img-text{
+	padding-left: 8px
+}

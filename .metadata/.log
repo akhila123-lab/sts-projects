@@ -279,3 +279,93 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.ui 2 2 2022-08-18 11:37:50.349
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:22.582
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:22.582
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:22.597
+!MESSAGE buffering callback sts4.classpath.GryXtIkJ movie-client-app false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:22.597
+!MESSAGE executing callback sts4.classpath.GryXtIkJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:22.622
+!MESSAGE executing callback sts4.classpath.GryXtIkJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:32.235
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:32.253
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:32.272
+!MESSAGE buffering callback sts4.classpath.GryXtIkJ movie-client-app false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:32.281
+!MESSAGE executing callback sts4.classpath.GryXtIkJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:32.395
+!MESSAGE executing callback sts4.classpath.GryXtIkJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:33.325
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:33.372
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:33.439
+!MESSAGE buffering callback sts4.classpath.GryXtIkJ movie-client-app false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:33.491
+!MESSAGE executing callback sts4.classpath.GryXtIkJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:33.543
+!MESSAGE executing callback sts4.classpath.GryXtIkJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:39.979
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.003
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.019
+!MESSAGE buffering callback sts4.classpath.GryXtIkJ movie-client-app false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.030
+!MESSAGE executing callback sts4.classpath.GryXtIkJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.050
+!MESSAGE executing callback sts4.classpath.GryXtIkJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.288
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.301
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.318
+!MESSAGE buffering callback sts4.classpath.GryXtIkJ movie-client-app false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.333
+!MESSAGE executing callback sts4.classpath.GryXtIkJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.360
+!MESSAGE executing callback sts4.classpath.GryXtIkJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.411
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.427
+!MESSAGE classpath=78 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.427
+!MESSAGE buffering callback sts4.classpath.GryXtIkJ movie-client-app false 78
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.443
+!MESSAGE executing callback sts4.classpath.GryXtIkJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-18 11:42:40.466
+!MESSAGE executing callback sts4.classpath.GryXtIkJ SUCCESS [done]
